@@ -40,5 +40,5 @@ Once the CDK Stack is successfully built, it can be tested by publishing a MQTT 
 
 ---
 ## Contributors
-- [Romil Shah (@rpshah)](https://phonetool.amazon.com/users/rpshah)
-- [Theodore Bakanas (@bakanat)](https://phonetool.amazon.com/users/bakanat)
+- [Romil Shah (@rpshah)](rpshah@amazon.com)
+- [Theodore Bakanas (@bakanat)](bakanat@amazon.com)
