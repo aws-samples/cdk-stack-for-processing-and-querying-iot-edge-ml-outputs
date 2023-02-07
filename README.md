@@ -36,6 +36,7 @@ Once the CDK Stack is successfully built, it can be tested by publishing a MQTT 
 4. Add the *Topic name* as: `out/topic`
 5. Write any *Message payload* that needs to be sent
 6. Click on *Publish* to publish the MQTT Message
+7. A SNS Email notification will be sent on the subscribed email(s)
 ![MQTTMessageTest](assets/MQTTMessageTest.png)
 
 ---
